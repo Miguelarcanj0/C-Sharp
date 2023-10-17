@@ -1,0 +1,14 @@
+M:\Downloads\TheFirstLines\bin\Debug\net7.0\TheFirstLines.exe
+M:\Downloads\TheFirstLines\bin\Debug\net7.0\TheFirstLines.deps.json
+M:\Downloads\TheFirstLines\bin\Debug\net7.0\TheFirstLines.runtimeconfig.json
+M:\Downloads\TheFirstLines\bin\Debug\net7.0\TheFirstLines.dll
+M:\Downloads\TheFirstLines\bin\Debug\net7.0\TheFirstLines.pdb
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.GeneratedMSBuildEditorConfig.editorconfig
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.AssemblyInfoInputs.cache
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.AssemblyInfo.cs
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.csproj.CoreCompileInputs.cache
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.dll
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\refint\TheFirstLines.dll
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.pdb
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\TheFirstLines.genruntimeconfig.cache
+M:\Downloads\TheFirstLines\obj\Debug\net7.0\ref\TheFirstLines.dll
