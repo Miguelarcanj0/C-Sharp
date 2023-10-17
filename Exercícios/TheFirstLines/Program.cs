@@ -9,7 +9,7 @@ class Program
     //      Variáveis
          
     //    int numerointeiro = 10;
-    //   float numerofloat = 10.2f;
+    //   float numerofloat = 10.3f;
     //   double numerodouble = 10.22d;  // suporta mais números que o float
     //   string textos = "opa galera!!";
     //   bool boleano = false; // true or false
